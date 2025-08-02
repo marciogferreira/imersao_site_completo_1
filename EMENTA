@@ -1,5 +1,11 @@
+REPOSITORIO: https://github.com/marciogferreira/imersao_site_completo_1
+
 IMERSAO: 
 CRIANDO UM SITE COMPPLETO COM BIBLIOTECA DE HTML E CSS
+
+Documentação:
+https://www.w3schools.com/html/default.asp
+https://html5up.net
 
 PROF. MÁRCIO FERREIRA
 DATA: 02/08/2025
@@ -13,3 +19,40 @@ DATA: 02/08/2025
 - ORGANIZANDO CONTEÚDO
 - CRIANDO FORMULARIO DE CONTATO
 - INTEGRANDO FORMULARIO COM EMAIL.
+
+
+
+ARQUITETURA DE DIRETORIOS:
+
+/images
+/css
+/js
+index.html
+
+
+HTML - HYPERTEXT MARKUP LANGUAGE
+HTML NAO É UMA LINGUAGEM DE PROGRAMACAO.
+
+COMANDOS DO HTML: TAGS:
+EXEMPLO CASADA:
+<nome_da_tag>Conteudo</nome_da_tag>
+
+EXEMPLO SOLTEIRA:
+<nome_da_tag />
+
+
+HTTP - HYPERTEXT TRANSFER PROTOCOL
+
+
+
+CSS - FOLHA DE ESTILO EM CASCATA
+CASCADING STYLE SHEET
+
+tag_name {
+    estilo: valor;
+    estilo: valor;
+    propriedade: valor;
+    color: white;
+    background: black;
+    
+}
